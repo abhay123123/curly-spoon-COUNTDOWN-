@@ -1,0 +1,19 @@
+#label1{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#container{
+    
+    text-align: center;
+}
+.button{
+
+    padding: auto;
+    color: white;
+    background-color: blue;
+    transition: 0.25s;
+}
+.button:hover{
+    background-color: aqua;
+}
